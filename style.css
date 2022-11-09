@@ -17,4 +17,5 @@ h1{
     background: linear-gradient(to right,rgb(0, 136, 199), rgb(119, 0, 199));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    pointer-events: none;
 }
