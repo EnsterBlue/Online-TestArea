@@ -53,12 +53,11 @@ p{
     padding: 8px 4px;
     text-align: center;
     font-size: 1.1em;
-
 }
 
 a{
     text-decoration: none;
-    color: black;
+    color: red;
 }
 
 a:hover{
