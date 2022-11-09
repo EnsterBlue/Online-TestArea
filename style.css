@@ -31,8 +31,9 @@ html{
 .text{
     background-color: whitesmoke;
     padding: 25px;
-    width: 23vw;
-    max-height: 90vh;
+    width: 47vw;
+    max-width: 900px;
+    height: auto;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.247), inset 0 0 8px 0 rgba(0, 0, 0, 0.324);
 }
 
@@ -47,10 +48,11 @@ p{
     background-color: whitesmoke;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.247), inset 0 0 8px 0 rgba(0, 0, 0, 0.324);
     display: block;
-    width: 9vw;
+    width: 12vw;
     height: auto;
     padding: 8px 4px;
     text-align: center;
+    font-size: 1.1em;
 
 }
 
